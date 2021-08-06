@@ -1,0 +1,27 @@
+$primary: #828282;
+$card-bg: #1f2133;
+$table-dark-bg: #1f2133;
+$navbar-dark-color: #fff;
+
+// minima
+// Width of the content area
+$base-font-family: "Exo 2", "Open Sans", sans-serif !default;
+$base-font-size:   14px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$text-color:       #fff !default;
+$background-color: #2b2c3b !default;
+$brand-color:      #2a7ae2 !default;
+
+$content-width:    1200px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$spacing-unit:     30px !default;
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+$border-color:     #eaeaea;

@@ -2,10 +2,11 @@ title: VCSLab
 email: cskh_anm@viettel.com.vn
 description: >- # this means to ignore newlines until "baseurl:"
   On this website, we publish our research results in the Viettel Vulnerabilities Disclosure program including vulnerabilities, badges, publications.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: "https://lab.viettelcybersecurity.com/"
 twitter_username: vcslab
 github_username:  vcslab
+google_analytics: "G-C1YDQJJ0R8"
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

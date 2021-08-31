@@ -370,3 +370,13 @@ img {
   display: block;
   margin: auto;
 }
+
+.badge-details li {
+  list-style: none;
+}
+
+.badge-details li:before {
+  content:"·";
+  font-size:x-large;
+  padding-right: 10px;
+}

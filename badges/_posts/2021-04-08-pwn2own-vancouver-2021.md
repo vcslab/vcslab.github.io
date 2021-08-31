@@ -19,10 +19,10 @@ Today, we are proud to announce that our Viettel Team with two researchers, Pham
 
 ![vt](/badges/images/p2o-2021-vt.png)
 
-On the Master of Pwn side (the point for team), our Team Viettel is in [top 5 with 11.5 points](https://twitter.com/thezdi/status/1380280223967670279?s=20) in total.
+On the Master of Pwn side (the points for teams), our Team Viettel is in [top 5 with 11.5 points](https://twitter.com/thezdi/status/1380280223967670279?s=20) in total.
 
 ![team](/badges/images/p2o-2021-team.png)
 
-### Refences
+### References
 - [https://www.zerodayinitiative.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021](https://www.zerodayinitiative.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021)
 - [https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results](https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results)

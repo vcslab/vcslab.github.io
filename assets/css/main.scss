@@ -8,21 +8,7 @@
 /**
  * Reset some basic elements
  */
-body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-hr,
-dl,
-dd,
-ol,
-ul,
+body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,
 figure {
   margin: 0;
   padding: 0;
@@ -49,19 +35,7 @@ body {
 /**
   * Set `margin-bottom` to maintain vertical rhythm
   */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-ul,
-ol,
-dl,
-figure,
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,ul,ol,dl,figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
@@ -283,4 +257,116 @@ img {
 .advisories-details a:hover {
   color: #828282;
   text-decoration: underline;
+}
+
+.badges-div {
+  padding: 0.75rem 1.25rem;
+}
+
+.badges-table {
+  font-size: 19px;
+  line-height: 1.1;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.badge-date {
+  width: 100px;
+}
+
+.badge-date div {
+  border-radius: 10px;
+  border: 2px solid #828282;
+  padding-top: 12px;
+}
+
+.badge-date span {
+  font-size: 12px;
+}
+
+.badges-table .name {
+  position: relative;
+}
+
+.badges-table .name:after {
+  display: block;
+  content: '';
+  height: 2px;
+  margin-top: -7px;
+  margin-bottom: 7px;
+  background-image: -moz-linear-gradient(90deg, #191919 25%, #191919 75%, #ddd 75%);
+  background-image: linear-gradient(90deg, #191919 25%, #191919 75%, #555 75%);
+  background-size: 6px 2px;
+  z-index: 1;
+}
+
+.badges-table td {
+  padding: 5px 10px 10px;
+}
+
+.badges-table .badge-name {
+  display: block;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.badges-table .username {
+  font-size: 16px;
+  position: relative;
+  z-index: 2;
+  padding-right: 10px;
+  background: #1f2133;
+  padding-left: 5px;
+}
+
+.user-badges {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.badges-table .badges {
+  text-align: right;
+}
+
+.badges-table .badges .user-badges li {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.user-badges li {
+    display: inline;
+    margin-right: 10px;
+}
+.user-badge {
+    font-size: 12px;
+    color: #bbb;
+}
+
+.user-badges img {
+  height: 50px;
+  vertical-align: center;
+}
+
+.user-badge-for-home .user-badge-title {
+  display: none;
+}
+
+.badge-details {
+  padding: 20px;
+  font-size: large;
+  text-align: justify;
+}
+
+.badge-details a {
+  color: #828282;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.badge-details img {
+  max-height: 700px;
+  display: block;
+  margin: auto;
 }

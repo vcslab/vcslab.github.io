@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="col-xl-12">
+  <div class="card">
+      <div class="card-header">
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        <p class="post-meta">
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ page.date | date: date_format }}
+          </time>
+          {%- if page.authors -%}
+            {% for author in page.authors %}
+              <br/>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {% endfor %}
+          {%- endif -%}</p>
+          {%- if page.tags -%}
+            <ul class="user-badges">
+              {% for tag in page.tags %}
+              <li class="user-badge user-badge-A3 user-badge-rank-5 user-badge-for-home">
+                  <a href="#">
+                      <img src="/assets/images/icons/{{tag|downcase}}.png"
+                          alt="{{tag}}">
+                      <span class="user-badge-title">{{tag}}</span>
+                  </a>
+              </li>
+              {% endfor %}
+          </ul>
+          {%- endif -%}</p>
+      </div>
+      <div class="card-block table-border-style">
+          <div class="table-responsive badge-details">
+            {{ content }}
+          </div>
+      </div>
+  </div>
+</div>

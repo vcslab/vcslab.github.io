@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|duongbv2 (Bui Van Duong)
 REPORT TIME|2020-10-08
 PUBLISHED TIME|2021-01-08
-REFERENCES|&#8226; [* https://www.oracle.com/security-alerts/cpuoct2020.html#:~:text=Bui%20Duong](* https://www.oracle.com/security-alerts/cpuoct2020.html#:~:text=Bui%20Duong)
+REFERENCES|&#8226; [https://www.oracle.com/security-alerts/cpuoct2020.html#:~:text=Bui%20Duong](https://www.oracle.com/security-alerts/cpuoct2020.html#:~:text=Bui%20Duong)

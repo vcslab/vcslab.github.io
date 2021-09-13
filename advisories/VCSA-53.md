@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Nguyen Van Long
 REPORT TIME|2020-10-08
 PUBLISHED TIME|2021-01-08
-REFERENCES|&#8226; [* https://www.jenkins.io/security/advisory/2020-10-08/#:~:text=Long%20Nguyen](* https://www.jenkins.io/security/advisory/2020-10-08/#:~:text=Long%20Nguyen)
+REFERENCES|&#8226; [https://www.jenkins.io/security/advisory/2020-10-08/#:~:text=Long%20Nguyen](https://www.jenkins.io/security/advisory/2020-10-08/#:~:text=Long%20Nguyen)

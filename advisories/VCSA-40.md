@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Mai Anh Vu
 REPORT TIME|2020-03-01
 PUBLISHED TIME|2020-06-01
-REFERENCES|&#8226; [* https://blog.viettelcybersecurity.com/zoho-manegeengine-applications-manager-from-sqli-to-rce-more/](* https://blog.viettelcybersecurity.com/zoho-manegeengine-applications-manager-from-sqli-to-rce-more/)<br>&#8226; [* https://bugbounty.zoho.com/bb/info?department=zoho#hof%232020](* https://bugbounty.zoho.com/bb/info?department=zoho#hof%232020)
+REFERENCES|&#8226; [https://blog.viettelcybersecurity.com/zoho-manegeengine-applications-manager-from-sqli-to-rce-more/](https://blog.viettelcybersecurity.com/zoho-manegeengine-applications-manager-from-sqli-to-rce-more/)<br>&#8226; [https://bugbounty.zoho.com/bb/info?department=zoho#hof%232020](https://bugbounty.zoho.com/bb/info?department=zoho#hof%232020)

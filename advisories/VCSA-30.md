@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Trinh Phuoc An
 REPORT TIME|2020-02-01
 PUBLISHED TIME|2020-05-01
-REFERENCES|&#8226; [* http://cvedata.com/cve/CVE-2020-3945/](* http://cvedata.com/cve/CVE-2020-3945/)
+REFERENCES|&#8226; [http://cvedata.com/cve/CVE-2020-3945/](http://cvedata.com/cve/CVE-2020-3945/)

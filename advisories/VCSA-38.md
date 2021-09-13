@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Hà Anh Hoàng
 REPORT TIME|2020-04-01
 PUBLISHED TIME|2020-06-01
-REFERENCES|&#8226; [* https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1022](* https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1022)
+REFERENCES|&#8226; [https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1022](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1022)

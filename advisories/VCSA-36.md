@@ -14,4 +14,4 @@ SOLUTION|Update to latest version
 CREDIT|Nguyen Van Tien Thanh (yeuchimse)
 REPORT TIME|2019-04-26
 PUBLISHED TIME|2019-07-26
-REFERENCES|&#8226; [* https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/](* https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/)<br>&#8226; [* https://bugcrowd.com/atlassian/hall-of-fame](* https://bugcrowd.com/atlassian/hall-of-fame)
+REFERENCES|&#8226; [https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/](https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/)<br>&#8226; [https://bugcrowd.com/atlassian/hall-of-fame](https://bugcrowd.com/atlassian/hall-of-fame)

@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Lee Thao (Le Quang Thao)
 REPORT TIME|2020-02-01
 PUBLISHED TIME|2020-05-01
-REFERENCES|&#8226; [* http://cvedata.com/cve/CVE-2020-8419/](* http://cvedata.com/cve/CVE-2020-8419/)
+REFERENCES|&#8226; [http://cvedata.com/cve/CVE-2020-8419/](http://cvedata.com/cve/CVE-2020-8419/)

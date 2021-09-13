@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|anhnt1337 (Nguyen Tuan Anh)
 REPORT TIME|2020-04-01
 PUBLISHED TIME|2020-07-01
-REFERENCES|&#8226; [* https://www.oracle.com/security-alerts/cpuapr2020.html#:~:text=Tuan%20Anh%20Nguyen](* https://www.oracle.com/security-alerts/cpuapr2020.html#:~:text=Tuan%20Anh%20Nguyen)
+REFERENCES|&#8226; [https://www.oracle.com/security-alerts/cpuapr2020.html#:~:text=Tuan%20Anh%20Nguyen](https://www.oracle.com/security-alerts/cpuapr2020.html#:~:text=Tuan%20Anh%20Nguyen)

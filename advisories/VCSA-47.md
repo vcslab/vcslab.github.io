@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Trinh Phuoc An
 REPORT TIME|2020-04-01
 PUBLISHED TIME|2020-07-01
-REFERENCES|&#8226; [* https://www.dell.com/support/security/en-us/details/541677/DSA-2020-057](* https://www.dell.com/support/security/en-us/details/541677/DSA-2020-057)
+REFERENCES|&#8226; [https://www.dell.com/support/security/en-us/details/541677/DSA-2020-057](https://www.dell.com/support/security/en-us/details/541677/DSA-2020-057)

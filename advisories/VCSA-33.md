@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Trinh Phuoc An
 REPORT TIME|2020-02-01
 PUBLISHED TIME|2020-05-01
-REFERENCES|&#8226; [* https://www.vmware.com/security/advisories/VMSA-2020-0003.html](* https://www.vmware.com/security/advisories/VMSA-2020-0003.html)<br>&#8226; [* http://cvedata.com/cve/CVE-2020-3944/](* http://cvedata.com/cve/CVE-2020-3944/)
+REFERENCES|&#8226; [https://www.vmware.com/security/advisories/VMSA-2020-0003.html](https://www.vmware.com/security/advisories/VMSA-2020-0003.html)<br>&#8226; [http://cvedata.com/cve/CVE-2020-3944/](http://cvedata.com/cve/CVE-2020-3944/)

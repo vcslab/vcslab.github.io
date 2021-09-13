@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Trinh Phuoc An
 REPORT TIME|2020-02-01
 PUBLISHED TIME|2020-05-01
-REFERENCES|&#8226; [* https://www.us-cert.gov/ncas/current-activity/2020/02/19/vmware-releases-security-updates-vrealize-operations-horizon;](* https://www.us-cert.gov/ncas/current-activity/2020/02/19/vmware-releases-security-updates-vrealize-operations-horizon;)<br>&#8226; [* http://cvedata.com/cve/CVE-2020-3943/](* http://cvedata.com/cve/CVE-2020-3943/)
+REFERENCES|&#8226; [https://www.us-cert.gov/ncas/current-activity/2020/02/19/vmware-releases-security-updates-vrealize-operations-horizon;](https://www.us-cert.gov/ncas/current-activity/2020/02/19/vmware-releases-security-updates-vrealize-operations-horizon;)<br>&#8226; [http://cvedata.com/cve/CVE-2020-3943/](http://cvedata.com/cve/CVE-2020-3943/)

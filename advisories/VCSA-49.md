@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|duongbv2 (Bui Van Duong)
 REPORT TIME|2020-07-01
 PUBLISHED TIME|2020-10-01
-REFERENCES|&#8226; [* https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=CVE-2020-14611](* https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=CVE-2020-14611)<br>&#8226; [* http://cvedata.com/cve/CVE-2020-14611/](* http://cvedata.com/cve/CVE-2020-14611/)
+REFERENCES|&#8226; [https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=CVE-2020-14611](https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=CVE-2020-14611)<br>&#8226; [http://cvedata.com/cve/CVE-2020-14611/](http://cvedata.com/cve/CVE-2020-14611/)

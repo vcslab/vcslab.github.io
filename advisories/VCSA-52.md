@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|Nguyen Huy Hoang (1sd3d)
 REPORT TIME|2020-08-01
 PUBLISHED TIME|2020-11-01
-REFERENCES|&#8226; [* https://www.zerodayinitiative.com/advisories/ZDI-CAN-11355/](* https://www.zerodayinitiative.com/advisories/ZDI-CAN-11355/)
+REFERENCES|&#8226; [https://www.zerodayinitiative.com/advisories/ZDI-CAN-11355/](https://www.zerodayinitiative.com/advisories/ZDI-CAN-11355/)

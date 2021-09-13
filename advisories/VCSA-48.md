@@ -13,4 +13,4 @@ SOLUTION|Update to latest version
 CREDIT|anhnt1337 (Nguyen Tuan Anh)
 REPORT TIME|2020-07-01
 PUBLISHED TIME|2020-10-01
-REFERENCES|&#8226; [* https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=Tuan%20Anh%20Nguyen](* https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=Tuan%20Anh%20Nguyen)<br>&#8226; [* http://cvedata.com/cve/CVE-2020-14598/](* http://cvedata.com/cve/CVE-2020-14598/)<br>&#8226; [* http://cvedata.com/cve/CVE-2020-14599/](* http://cvedata.com/cve/CVE-2020-14599/)
+REFERENCES|&#8226; [https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=Tuan%20Anh%20Nguyen](https://www.oracle.com/security-alerts/cpujul2020.html#:~:text=Tuan%20Anh%20Nguyen)<br>&#8226; [http://cvedata.com/cve/CVE-2020-14598/](http://cvedata.com/cve/CVE-2020-14598/)<br>&#8226; [http://cvedata.com/cve/CVE-2020-14599/](http://cvedata.com/cve/CVE-2020-14599/)

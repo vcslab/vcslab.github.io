@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /policy
+permalink: /policy-vi
 title: VCS Vulnerability Disclosure Policy
 version: 1.0
 update: 2021-09-09

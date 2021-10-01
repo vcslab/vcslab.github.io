@@ -9,6 +9,7 @@ AFFECTED VENDORS|Akuvox
 AFFECTED PRODUCTS|C315
 AFFECTED VERSIONS|115.116.2613
 DESCRIPTION|Akuvox C315 115.116.2613 allows remote command Injection via the cfgd_server service. The attack vector is sending a payload to port 189 (default root 0.0.0.0).
+DISCLOSURE LINK|[https://blog.viettelcybersecurity.com/thanh-pho-thong-minh-co-the-bi-hack-nhu-the-nao/](https://blog.viettelcybersecurity.com/thanh-pho-thong-minh-co-the-bi-hack-nhu-the-nao/)
 SOLUTION|Update to latest version
 CREDIT|Hà Văn Toàn
 REPORT TIME|2021-04-25

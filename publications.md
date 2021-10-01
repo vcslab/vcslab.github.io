@@ -17,9 +17,9 @@ title: VCSLab publications
 ### Demigod: The Art of Emulating Kernel Rootkits
 
 > [+] **Date:** 2020-08-05\
-> [+] **Author:** Nguyen Hong Quang ft Quynh Nguyen Anh (Nanyang Technological University, Singapore), Tuan Do Minh (CyStack)\
+> [+] **Author:** Nguyen Hong Quang ft Quynh Nguyen Anh (Nanyang Technological University), Tuan Do Minh (CyStack)\
 > [+] **Event:** Blackhat US 2020\
-> [+] **References**: [https://www.blackhat.com/us-20/briefings/schedule/#demigod-the-art-of-emulating-kernel-rootkits-20009](https://www.blackhat.com/us-20/briefings/schedule/#demigod-the-art-of-emulating-kernel-rootkits-20009)
+> [+] **References**: [blackhat.com/us-20/briefings/schedule/#demigod-the-art-of-emulating-kernel-rootkits-20009](https://www.blackhat.com/us-20/briefings/schedule/#demigod-the-art-of-emulating-kernel-rootkits-20009)
 
 
 ---
@@ -29,6 +29,6 @@ title: VCSLab publications
 > [+] **Date:** 2019-12-04\
 > [+] **Author:** Trinh Phuoc An\
 > [+] **Event:** Blackhat EU 2019\
-> [+] **References**: [https://www.blackhat.com/eu-19/briefings/schedule/#far-sides-of-java-remote-protocols-17616](https://www.blackhat.com/eu-19/briefings/schedule/#far-sides-of-java-remote-protocols-17616)
+> [+] **References**: [blackhat.com/eu-19/briefings/schedule/#far-sides-of-java-remote-protocols-17616](https://www.blackhat.com/eu-19/briefings/schedule/#far-sides-of-java-remote-protocols-17616)
 
 ---

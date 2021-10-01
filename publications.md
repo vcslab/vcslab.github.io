@@ -24,7 +24,7 @@ title: VCSLab publications
 
 ---
 
-### Far Sides of Java Remote Protocols\
+### Far Sides of Java Remote Protocols
 
 > [+] **Date:** 2019-12-04\
 > [+] **Author:** Trinh Phuoc An\

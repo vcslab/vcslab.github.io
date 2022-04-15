@@ -12,5 +12,5 @@ DESCRIPTION|In apache druid version version 0.22.0 XSS vulnerability exists that
 SOLUTION|Update to latest version
 CREDIT|DangKhai (Nguyễn Đặng Khải)
 REPORT TIME|2021-11-15
-PUBLISHED TIME|2022-02-15
+PUBLISHED TIME|2022-04-30
 DISCLOSURE TIMELINE|&#8226; 15/11/2021 – Reported the vulnerability to the vendor<br>&#8226; 23/11/2021 – The vendor accepted the report

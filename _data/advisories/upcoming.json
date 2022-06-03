@@ -1,1 +1,1 @@
-[{"issueid": 109, "vcsaid": "VCSA-109", "duedate": "NOPE", "reporteddate": "2022-03-29", "year": "2022", "vendor": "Mozilla", "score": "7.4", "cvss": "AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N", "credit": "Trung Pham", "publishstatus": "UPCOMING"}]
+[{"issueid": 111, "vcsaid": "VCSA-111", "duedate": "NOPE", "reporteddate": "None", "year": "2022", "vendor": "Microsoft", "score": "N/A", "cvss": "N/A", "credit": "None", "publishstatus": "UPCOMING"}]

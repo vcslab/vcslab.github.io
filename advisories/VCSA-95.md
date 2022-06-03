@@ -14,3 +14,4 @@ CREDIT|DangKhai (Nguyễn Đặng Khải)
 REPORT TIME|2021-11-15
 PUBLISHED TIME|2022-04-30
 DISCLOSURE TIMELINE|&#8226; 15/11/2021 – Reported the vulnerability to the vendor<br>&#8226; 23/11/2021 – The vendor accepted the report
+REFERENCES|&#8226; [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44791](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44791)

@@ -8,7 +8,7 @@ CVSS SCORE|[8.2](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?calculator
 AFFECTED VENDORS|TPLink
 AFFECTED PRODUCTS|TPLink TL-WR841N V12
 AFFECTED VERSIONS|Firmware version 3.16.9
-DESCRIPTION|<!-- Mô tả ngắn gọn về lỗ hổng, Nội dung này sẽ được public khi hết deadline khắc phục và không public trong trường hợp TPLink TL-WR841N V12 (firmware version 3.16.9) devices allow an authenticated allows remote code execution via GET request to the page for the System Tools of the Wi-Fi network.
+DESCRIPTION|TPLink TL-WR841N V12 (firmware version 3.16.9) devices allow an authenticated allows remote code execution via GET request to the page for the System Tools of the Wi-Fi network.
 SOLUTION|Check data length before processing
 CREDIT|cuongtm30 (Trần Minh Cường)
 REPORT TIME|2022-04-14

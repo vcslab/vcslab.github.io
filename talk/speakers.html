@@ -1,0 +1,15 @@
+---
+layout: talk_default
+title: Speakers
+permalink: /talk/speakers/
+modal: all
+---
+
+{% include /talk/top-section.html %}
+
+{% if site.showSessions %}
+    {% include /talk/speakers-list.html %}
+{% else %}
+    {% include /talk/speakers-list-2.html %}
+{% endif %}
+

@@ -1,45 +1,52 @@
 ---
 layout: default
-title: Published Advisories
+title: Badges
 ---
 <!-- [ basic-table ] start -->
 <div class="col-xl-12">
     <div class="card">
         <div class="card-header">
-            <h3 style="display: inline-block;">PUBLISHED ADVISORIES</h3>
-            <select id="select-year" style="margin-left: 20px;">
-                <option value="--"> -- </option>
-                {% for year in site.data.advisories.years %}
-                    <option value="{{ year }}">{{ year }}</option>
-                {% endfor %}
-            </select>
-            <div class="float-right">
-                <button type="button" class="btn btn-square btn-dark active">PUBLISHED</button>
-                <a href="/upcoming" class="btn btn-square btn-dark" role="button">UPCOMING</a>
-            </div>
-            <span class="d-block m-t-5">The following is a list of all publicly disclosed vulnerabilities discovered by Viettel Cyber Security researchers. All security vulnerabilities are handled according to the <a href"#">VCS Disclosure Policy</a>. </span>
+            <h3 style="display: inline-block;">BADGES</h3>
+            <span class="d-block m-t-5">The following is a list of achievements awarded to Viettel Cyber Security
+                researchers.</span>
         </div>
         <div class="card-block table-border-style">
-            <div class="table-responsive">
-                <table class="table table-hover table-dark">
-                    <thead>
+            <div class="table-responsive badges-div">
+                <table class="badges-table">
+                    <tbody>
+                        {% for badge in site.posts %}
+                        {% if badge.categories contains "badges" | downcase %}
                         <tr>
-                            <th>VCSA ID</th>
-                            <th>AFFECTED VENDOR</th>
-                            <th>SEVERITY</th>
-                            <th>AUTHOR</th>
-                            <th>PUBLISHED</th>
+                            <td class="badge-date">
+                                <div class="text-center">
+                                    <span>{{badge.date| date: '%B %d'}}</span>
+                                    <h6>{{badge.date| date: '%Y'}}</h6>
+                                </div>
+                            </td>
+                            <td class="name">
+                                <a href="{{badge.url}}" class="badge-name">{{badge.title}}</a>
+                                <i class="fas fa-user-ninja"></i>
+                                <span class="username">
+                                    {% for author in badge.authors %}
+                                        {{ author }}, 
+                                    {% endfor %}
+                                </span>
+                            </td>
+                            <td class="badges tooltips-enabled">
+                                <ul class="user-badges">
+                                    {% for tag in badge.tags %}
+                                    <li class="user-badge user-badge-A3 user-badge-rank-5 user-badge-for-home">
+                                        <a href="#">
+                                            <img src="/assets/images/icons/{{tag|downcase}}.png"
+                                                alt="{{tag}}">
+                                            <span class="user-badge-title">{{tag}}</span>
+                                        </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </td>
                         </tr>
-                    </thead>
-                    <tbody id="advisories">
-                        {% for vcsa in site.data.advisories.published %}
-                        <tr class="table-row-click" data-href="/advisories/{{ vcsa.vcsaid }}" data-year="{{ vcsa.year }}" data-toggle="tooltip" data-placement="bottom" title="{{ vcsa.title }}">
-                            <td>{{ vcsa.vcsaid }}</td>
-                            <td>{{ vcsa.vendor }}</td>
-                            <td>{{ vcsa.score }}</td>
-                            <td>{{ vcsa.credit }}</td>
-                            <td>{{ vcsa.duedate }}</td>
-                        </tr>
+                        {% endif %}
                         {% endfor %}
                     </tbody>
                 </table>
@@ -49,25 +56,5 @@ title: Published Advisories
 </div>
 <!-- [ basic-table ] end -->
 <script>
-    $(document).ready(function(){
-      $("#select-year").on("change", function() {
-        var value = $(this).val().toLowerCase();
-        if (value=="--") {
-            $("#advisories tr").filter(function() {
-                $(this).toggle(true)
-            });
-        }
-        else{
-            $("#advisories tr").filter(function() {
-                $(this).toggle($(this).attr("data-year") == value)
-            });
-        }
-      });
-    });
-
-    $(document).ready(function($) {
-    $(".table-row-click").click(function() {
-        window.document.location = $(this).data("href");
-        });
-    });
+    
 </script>
